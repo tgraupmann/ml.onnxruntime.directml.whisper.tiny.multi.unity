@@ -1,5 +1,7 @@
 # Whisper Tiny Multi (OnnxRuntime/DirectML) for Unity
 
+https://assetstore.unity.com/packages/slug/352058
+
 OpenAI Whisper is an automatic speech recognition (ASR) model trained on diverse multilingual audio; it transcribes speech to text, can auto-detect language, and can translate many languages to English. This package bundles the tiny multilingual variant for lightweight, offline transcription/translation on Windows.
 
 ONNX Runtime is a high-performance inference engine for ONNX models; this package uses it to run the Whisper model efficiently on Windows.
