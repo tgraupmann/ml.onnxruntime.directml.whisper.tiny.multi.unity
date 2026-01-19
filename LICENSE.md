@@ -8,4 +8,5 @@
 - **DirectML** — MIT (<https://github.com/microsoft/DirectML/blob/master/LICENSE>)
 - **ONNX Runtime** — MIT (<https://github.com/microsoft/onnxruntime/blob/main/LICENSE>)
 - **OpenAI Whisper** — MIT (<https://github.com/openai/whisper/blob/main/LICENSE>)
+- **Qwen/Qwen2.5-0.5B-Instruct** — Apache-2.0 (<https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct>)
 - **WenQuanYi Font** - GNU General Public License (<https://en.wikipedia.org/wiki/WenQuanYi>)
